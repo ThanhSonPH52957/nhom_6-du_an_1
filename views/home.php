@@ -2,126 +2,12 @@
 <?php require_once 'layout/menu.php'; ?>
     <main>
         <!-- hero slider area start -->
-        <section class="slider-area">
-            <div class="hero-slider-active slick-arrow-style slick-arrow-style_hero slick-dot-style">
-                <!-- single slider item start -->
-                <div class="hero-single-slide hero-overlay">
-                    <div class="hero-slider-item bg-img" data-bg="assets/img/slider/slider1.png">
-                        <div class="container">
-                            <div class="row">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="hero-single-slide hero-overlay">
-                    <div class="hero-slider-item bg-img" data-bg="assets/img/slider/slider2.png">
-                        <div class="container">
-                            <div class="row">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="hero-single-slide hero-overlay">
-                    <div class="hero-slider-item bg-img" data-bg="assets/img/slider/slider3.png">
-                        <div class="container">
-                            <div class="row">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <!-- hero slider area end -->
 
         <!-- service policy area start -->
-        <div class="service-policy section-padding">
-            <div class="container">
-                <div class="row mtn-30">
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="policy-item">
-                            <div class="policy-icon">
-                                <i class="pe-7s-plane"></i>
-                            </div>
-                            <div class="policy-content">
-                                <h6>Giao hàng</h6>
-                                <p>Miễn phí giao hàng</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="policy-item">
-                            <div class="policy-icon">
-                                <i class="pe-7s-help2"></i>
-                            </div>
-                            <div class="policy-content">
-                                <h6>Hỗ trợ</h6>
-                                <p>Hỗ trợ 24/7</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="policy-item">
-                            <div class="policy-icon">
-                                <i class="pe-7s-back"></i>
-                            </div>
-                            <div class="policy-content">
-                                <h6>Hoàn tiền</h6>
-                                <p>Hoàn tiền trong 30 ngày</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="policy-item">
-                            <div class="policy-icon">
-                                <i class="pe-7s-credit"></i>
-                            </div>
-                            <div class="policy-content">
-                                <h6>Thanh toán</h6>
-                                <p>Bảo mật thanh toán</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!-- service policy area end -->
 
         <!-- banner statistics area start -->
-        <div class="banner-statistics-area">
-            <div class="container">
-                <div class="row row-20 mtn-20">
-                    <div class="col-sm-6">
-                        <figure class="banner-statistics mt-20">
-                            <a href="#">
-                                <img src="assets/img/banner/dog_banner_1370x.webp" alt="product banner">
-                            </a>
-                            <!-- <div class="banner-content text-right">
-                                <h5 class="banner-text1">BEAUTIFUL</h5>
-                                <h2 class="banner-text2">Wedding<span>Rings</span></h2>
-                                <a href="shop.html" class="btn btn-text">Shop Now</a>
-                            </div> -->
-                        </figure>
-                    </div>
-                    <div class="col-sm-6">
-                        <figure class="banner-statistics mt-20">
-                            <a href="#">
-                                <img src="assets/img/banner/cat_banner_1370x.webp" alt="product banner">
-                            </a>
-                            <!-- <div class="banner-content text-center">
-                                <h5 class="banner-text1">EARRINGS</h5>
-                                <h2 class="banner-text2">Tangerine Floral <span>Earring</span></h2>
-                                <a href="shop.html" class="btn btn-text">Shop Now</a>
-                            </div> -->
-                        </figure>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!-- banner statistics area end -->
 
         <!-- product area start -->
